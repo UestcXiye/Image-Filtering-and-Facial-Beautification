@@ -1,5 +1,7 @@
 # Image-Filtering-and-Facial-Beautification
-##  实验项目名称：图像滤波与人像美颜
+##  实验项目名称
+
+图像滤波与人像美颜
 
 ##  实验原理
 
